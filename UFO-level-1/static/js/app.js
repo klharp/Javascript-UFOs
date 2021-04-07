@@ -20,12 +20,12 @@ data.forEach((ufo) => {
       cell.text(value);
     });
     // verify ufo objects
-    console.log(ufo);
+    // console.log(ufo);
   });
 
 // form control and input
 // see instructor demo #3, #8 & 9 from javascript III, demo #10 from javascript II
-// Assign the data from `data.js` to a descriptive variable
+// Assign the data from `data.js` to a descriptive variable -- already at the begining of the file
 
 // Select the button
 var button = d3.select("#button");
@@ -49,6 +49,8 @@ function runEnter() {
 
   console.log(inputElement);
   console.log(inputValue);
+
+  tbody.html("");
 
 //   // filter by input date
 //   var results = tabledata.filter(tabledata => tabledata.datetime == inputValue);
