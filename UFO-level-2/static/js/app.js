@@ -28,7 +28,7 @@ data.forEach((ufo) => {
 // Assign the data from `data.js` to a descriptive variable -- already at the begining of the file
 
 // Select the button
-var button = d3.select("#button");
+var button = d3.select("#filter-btn");
 
 // Select the form
 var form = d3.select("#form");
