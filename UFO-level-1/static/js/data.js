@@ -1,3 +1,7 @@
+// verify connection
+console.log("connected to data.js");
+
+
 var data = [{
     datetime: "1/1/2010",
     city: "benton",
