@@ -52,17 +52,17 @@ function runEnter() {
 
   tbody.html("");
 
-//   // filter by input date
-//   var results = tabledata.filter(tabledata => tabledata.datetime == inputValue);
+  // filter by input date
+  var results = tableData.filter(tableData => tableData.datetime === inputValue);
 
-//   //loop through data to get results and create dynamic table
-//   results.forEach(UFOobject) => {
-//       var row = tbody.append("tr");
-//       Object.entries(UFOobject).forEach(([key, value]) => {
-//           var cell = row.append("td");
-//           cell.text(value);
-//       });
-//   });
+  //loop through data to get results and create dynamic table
+  results.forEach((UFOobject) => {
+      var row = tbody.append("tr");
+      Object.entries(UFOobject).forEach(([key, value]) => {
+          var cell = row.append("td");
+          cell.text(value);
+      });
+  });
 
 
 }
