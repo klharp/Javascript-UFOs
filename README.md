@@ -5,6 +5,7 @@
 ## View the Site
 The site can be viewed <a href="https://klharp.github.io/Javascript_Challenge/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
 
+![prefilter.png](images/prefilter.png)
 - - -
 
 ## Level 1: Automatic Table and Date Search (Required)
@@ -32,6 +33,6 @@ The site can be viewed <a href="https://klharp.github.io/Javascript_Challenge/UF
   5. `shape`
 
 
-![filter1.png](images/filter1.png)
+![filter2.png](images/filter2.png)
 
 
