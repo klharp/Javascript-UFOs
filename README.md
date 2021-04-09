@@ -22,9 +22,9 @@ The site can be viewed <a href="https://klharp.github.io/Javascript_Challenge/UF
 
 ## Level 2: Multiple Search Categories 
 
-* Complete all of Level 1 criteria.
+* Completed all of Level 1 criteria.
 
-* Used multiple `input` options. Wrote JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on:
+* Used multiple `input` options. Wrote JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria:
 
   1. `date/time`
   2. `city`
