@@ -3,7 +3,7 @@
  Used JavaScript, HTML, and CSS, and D3.js  that created a table dynamically based upon a provided dataset. Users can filter the table data for specific values.
 
 ## View the Site
-The site can be viewed <a href="https://klharp.github.io/Javascript_Challenge/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
+The site can be viewed <a href="https://klharp.github.io/javascript-challenge/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
 
 ![prefilter.png](images/prefilter.png)
 - - -
