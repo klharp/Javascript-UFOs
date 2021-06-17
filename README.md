@@ -1,6 +1,16 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 
- Used JavaScript, HTML, and CSS, and D3.js  that created a table dynamically based upon a provided dataset. Users can filter the table data for specific values.
+## Project Overview
+This project dynamically generates a table to explore and filter the provided UFO data.
+
+Languages and libraries used:
+
+* Javascript
+* D3
+* HTML
+* CSS
+
+--- 
 
 ## View the Site
 The site can be viewed <a href="https://klharp.github.io/javascript-challenge/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
