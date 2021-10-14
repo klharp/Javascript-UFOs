@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# avaScript and DOM Manipulation
 
 ## Project Overview
 This project dynamically generates a table to explore and filter the provided UFO data.
@@ -13,7 +13,7 @@ Languages and libraries used:
 --- 
 
 ## View the Site
-The site can be viewed <a href="https://klharp.github.io/javascript-challenge/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
+The site can be viewed <a href="https://klharp.github.io/Javascript-UFOs/UFO-level-1/">HERE</a>. When on the initial page, click the text link `More Filter Options` to see the page with multiple filter capabilities.
 
 ![prefilter.png](images/prefilter.png)
 - - -
